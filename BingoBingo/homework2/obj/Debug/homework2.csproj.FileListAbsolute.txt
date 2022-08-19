@@ -1,0 +1,81 @@
+C:\Users\user\repo3\Ren\hw\homework2\homework2\obj\Debug\homework2.csproj.AssemblyReference.cache
+C:\Users\user\repo3\Ren\hw\homework2\homework2\obj\Debug\homework2.Properties.Resources.resources
+C:\Users\user\repo3\Ren\hw\homework2\homework2\obj\Debug\homework2.csproj.GenerateResource.cache
+C:\Users\user\repo3\Ren\hw\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+C:\Users\user\repo3\Ren\hw\homework2\homework2\bin\Debug\homework2.exe.config
+C:\Users\user\repo3\Ren\hw\homework2\homework2\bin\Debug\homework2.exe
+C:\Users\user\repo3\Ren\hw\homework2\homework2\bin\Debug\homework2.pdb
+C:\Users\user\repo3\Ren\hw\homework2\homework2\obj\Debug\homework2.exe
+C:\Users\user\repo3\Ren\hw\homework2\homework2\obj\Debug\homework2.pdb
+C:\Users\user\repo3\Ren\hw\homework2\homework2\obj\Debug\homework2.BingoBingo.resources
+C:\Users\iii\repo3\Ren\C#\hw\homework2\homework2\obj\Debug\homework2.csprojAssemblyReference.cache
+C:\Users\iii\repo3\Ren\C#\hw\homework2\homework2\obj\Debug\homework2.BingoBingo.resources
+C:\Users\iii\repo3\Ren\C#\hw\homework2\homework2\obj\Debug\homework2.Properties.Resources.resources
+C:\Users\iii\repo3\Ren\C#\hw\homework2\homework2\obj\Debug\homework2.csproj.GenerateResource.cache
+C:\Users\iii\repo3\Ren\C#\hw\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+C:\Users\iii\repo3\Ren\C#\hw\homework2\homework2\obj\Debug\homework2.exe
+C:\Users\iii\repo3\Ren\C#\hw\homework2\homework2\obj\Debug\homework2.pdb
+C:\Users\iii\repo3\Ren\C#\hw\homework2\homework2\bin\Debug\homework2.exe.config
+C:\Users\iii\repo3\Ren\C#\hw\homework2\homework2\bin\Debug\homework2.exe
+C:\Users\iii\repo3\Ren\C#\hw\homework2\homework2\bin\Debug\homework2.pdb
+C:\Users\user\repo3\Ren\20220426\homework2\homework2\bin\Debug\homework2.exe.config
+C:\Users\user\repo3\Ren\20220426\homework2\homework2\bin\Debug\homework2.exe
+C:\Users\user\repo3\Ren\20220426\homework2\homework2\bin\Debug\homework2.pdb
+C:\Users\user\repo3\Ren\20220426\homework2\homework2\obj\Debug\homework2.csproj.AssemblyReference.cache
+C:\Users\user\repo3\Ren\20220426\homework2\homework2\obj\Debug\homework2.BingoBingo.resources
+C:\Users\user\repo3\Ren\20220426\homework2\homework2\obj\Debug\homework2.Properties.Resources.resources
+C:\Users\user\repo3\Ren\20220426\homework2\homework2\obj\Debug\homework2.csproj.GenerateResource.cache
+C:\Users\user\repo3\Ren\20220426\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+C:\Users\user\repo3\Ren\20220426\homework2\homework2\obj\Debug\homework2.exe
+C:\Users\user\repo3\Ren\20220426\homework2\homework2\obj\Debug\homework2.pdb
+C:\Users\iii\repo3\Ren\C#\hw\20220427\homework2\homework2\bin\Debug\homework2.exe.config
+C:\Users\iii\repo3\Ren\C#\hw\20220427\homework2\homework2\bin\Debug\homework2.exe
+C:\Users\iii\repo3\Ren\C#\hw\20220427\homework2\homework2\bin\Debug\homework2.pdb
+C:\Users\iii\repo3\Ren\C#\hw\20220427\homework2\homework2\obj\Debug\homework2.csprojAssemblyReference.cache
+C:\Users\iii\repo3\Ren\C#\hw\20220427\homework2\homework2\obj\Debug\homework2.BingoBingo.resources
+C:\Users\iii\repo3\Ren\C#\hw\20220427\homework2\homework2\obj\Debug\homework2.Properties.Resources.resources
+C:\Users\iii\repo3\Ren\C#\hw\20220427\homework2\homework2\obj\Debug\homework2.csproj.GenerateResource.cache
+C:\Users\iii\repo3\Ren\C#\hw\20220427\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+C:\Users\iii\repo3\Ren\C#\hw\20220427\homework2\homework2\obj\Debug\homework2.exe
+C:\Users\iii\repo3\Ren\C#\hw\20220427\homework2\homework2\obj\Debug\homework2.pdb
+C:\Users\user\repo3\Ren\hw\20220427\homework2\homework2\bin\Debug\homework2.exe.config
+C:\Users\user\repo3\Ren\hw\20220427\homework2\homework2\bin\Debug\homework2.exe
+C:\Users\user\repo3\Ren\hw\20220427\homework2\homework2\bin\Debug\homework2.pdb
+C:\Users\user\repo3\Ren\hw\20220427\homework2\homework2\obj\Debug\homework2.csproj.AssemblyReference.cache
+C:\Users\user\repo3\Ren\hw\20220427\homework2\homework2\obj\Debug\homework2.BingoBingo.resources
+C:\Users\user\repo3\Ren\hw\20220427\homework2\homework2\obj\Debug\homework2.Properties.Resources.resources
+C:\Users\user\repo3\Ren\hw\20220427\homework2\homework2\obj\Debug\homework2.csproj.GenerateResource.cache
+C:\Users\user\repo3\Ren\hw\20220427\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+C:\Users\user\repo3\Ren\hw\20220427\homework2\homework2\obj\Debug\homework2.exe
+C:\Users\user\repo3\Ren\hw\20220427\homework2\homework2\obj\Debug\homework2.pdb
+C:\Users\user\Desktop\homework2\homework2\bin\Debug\homework2.exe.config
+C:\Users\user\Desktop\homework2\homework2\bin\Debug\homework2.exe
+C:\Users\user\Desktop\homework2\homework2\bin\Debug\homework2.pdb
+C:\Users\user\Desktop\homework2\homework2\obj\Debug\homework2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\homework2\homework2\obj\Debug\homework2.BingoBingo.resources
+C:\Users\user\Desktop\homework2\homework2\obj\Debug\homework2.Properties.Resources.resources
+C:\Users\user\Desktop\homework2\homework2\obj\Debug\homework2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\homework2\homework2\obj\Debug\homework2.exe
+C:\Users\user\Desktop\homework2\homework2\obj\Debug\homework2.pdb
+C:\Users\user\Desktop\盧宥任 BingoBingo\homework2\bin\Debug\homework2.exe.config
+C:\Users\user\Desktop\盧宥任 BingoBingo\homework2\bin\Debug\homework2.exe
+C:\Users\user\Desktop\盧宥任 BingoBingo\homework2\bin\Debug\homework2.pdb
+C:\Users\user\Desktop\盧宥任 BingoBingo\homework2\obj\Debug\homework2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\盧宥任 BingoBingo\homework2\obj\Debug\homework2.BingoBingo.resources
+C:\Users\user\Desktop\盧宥任 BingoBingo\homework2\obj\Debug\homework2.Properties.Resources.resources
+C:\Users\user\Desktop\盧宥任 BingoBingo\homework2\obj\Debug\homework2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\盧宥任 BingoBingo\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\盧宥任 BingoBingo\homework2\obj\Debug\homework2.exe
+C:\Users\user\Desktop\盧宥任 BingoBingo\homework2\obj\Debug\homework2.pdb
+E:\已交作業\盧宥任 BingoBingo\homework2\bin\Debug\homework2.exe.config
+E:\已交作業\盧宥任 BingoBingo\homework2\bin\Debug\homework2.exe
+E:\已交作業\盧宥任 BingoBingo\homework2\bin\Debug\homework2.pdb
+E:\已交作業\盧宥任 BingoBingo\homework2\obj\Debug\homework2.csproj.AssemblyReference.cache
+E:\已交作業\盧宥任 BingoBingo\homework2\obj\Debug\homework2.csproj.SuggestedBindingRedirects.cache
+E:\已交作業\盧宥任 BingoBingo\homework2\obj\Debug\homework2.BingoBingo.resources
+E:\已交作業\盧宥任 BingoBingo\homework2\obj\Debug\homework2.Properties.Resources.resources
+E:\已交作業\盧宥任 BingoBingo\homework2\obj\Debug\homework2.csproj.GenerateResource.cache
+E:\已交作業\盧宥任 BingoBingo\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+E:\已交作業\盧宥任 BingoBingo\homework2\obj\Debug\homework2.exe
+E:\已交作業\盧宥任 BingoBingo\homework2\obj\Debug\homework2.pdb
